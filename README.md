@@ -1,4 +1,4 @@
-## Salve, Sou Nelson Bernardes Junior, estudante de "Desenvolvimento de Sistemas" 👋
+## Salve, Sou Nelson Bernardes Junior👋
 
 - 🔭 Hoje trabalho com Logística, mas pretendo mudar logo logo rs
 - 🌱 Estudando "Desenvolvimento de Sistemas" na ETEC Guarulhos
